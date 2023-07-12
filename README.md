@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivasan</h1>
 <h3 align="center">I am currently in my third year at IIIT Bangalore.I am a passionate back-end developer in India.I love to learn new frameworks and explore new stuff.</h3>
-
-<img align="right" alt="coding" width="400" src="https://tenor.com/en-IN/view/coding-gif-24297652">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srini2404&label=Profile%20views&color=0e75b6&style=flat" alt="srini2404" /> </p>
 
 ## Current Roles - 
