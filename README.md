@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srini2404&label=Profile%20views&color=0e75b6&style=flat" alt="srini2404" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srini2404" alt="srini2404" /></a> </p>
 
 - 🔭 I’m currently working on [AdvancedProcessors](https://github.com/ComputX-research-group/AdvancedProcessors)
 
