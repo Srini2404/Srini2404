@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srini2404&theme=transparent&show_icons=true&locale=en" alt="srini2404" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srini2404&" alt="srini2404" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srini2404a&repo=Srini2404"(https://github.com/Srini2404/Srini2404)></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srini2404a&repo=Srini2404"(https://github.com/Srini2404/Srini2404)/></p>
