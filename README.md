@@ -4,6 +4,10 @@
 <img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srini2404&label=Profile%20views&color=0e75b6&style=flat" alt="srini2404" /> </p>
 
+## Current Roles - 
+1. Marketing Lead - [TEDxIIITBanagalore](https://www.tedxiiitbangalore.in/)
+2. Member - [Computx](https://github.com/ComputX-research-group)
+3. Member - [Chhayachitra](https://www.instagram.com/chhayachitra_iiitb/)
 
 - 🔭 I’m currently working on [AdvancedProcessors](https://github.com/ComputX-research-group/AdvancedProcessors)
 
