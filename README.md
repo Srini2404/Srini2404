@@ -34,6 +34,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srini2404&show_icons=true&locale=en&layout=compact" alt="srini2404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srini2404&show_icons=true&locale=en" alt="srini2404" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srini2404)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srini2404&theme=merko&show_icons=true&locale=en" alt="srini2404" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srini2404&" alt="srini2404" /></p>
