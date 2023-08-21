@@ -4,10 +4,10 @@
 
 ## Current Roles - 
 1. Marketing Lead - [TEDxIIITBanagalore](https://www.tedxiiitbangalore.in/)
-2. Member - [Computx](https://github.com/ComputX-research-group)
+2. Ex - Member - [Computx](https://github.com/ComputX-research-group)
 3. Member - [Chhayachitra](https://www.instagram.com/chhayachitra_iiitb/)
 
-- 🔭 I’m currently working on [AdvancedProcessors](https://github.com/ComputX-research-group/AdvancedProcessors)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **ML**
 
