@@ -8,7 +8,7 @@
 3. Member - [Chhayachitra](https://www.instagram.com/chhayachitra_iiitb/)
 4. Teaching Assistant - IIITBangalore
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Data Visualization and Machine Learning
 
 - 🌱 I’m currently learning **ML**
 
