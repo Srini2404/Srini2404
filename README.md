@@ -6,6 +6,7 @@
 1. Marketing Lead - [TEDxIIITBanagalore](https://www.tedxiiitbangalore.in/)
 2. Ex - Member - [Computx](https://github.com/ComputX-research-group)
 3. Member - [Chhayachitra](https://www.instagram.com/chhayachitra_iiitb/)
+4. Teaching Assistant - [IIITBangalore]
 
 - 🔭 I’m currently working on 
 
