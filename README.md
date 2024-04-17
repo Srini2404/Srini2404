@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srini2404&label=Profile%20views&color=0e75b6&style=flat" alt="srini2404" /> </p>
 
 ## Current Roles - 
-1. Marketing Lead - [TEDxIIITBanagalore](https://www.tedxiiitbangalore.in/)
+1. Ex-Marketing Lead - [TEDxIIITBanagalore](https://www.tedxiiitbangalore.in/)
 2. Ex - Member - [Computx](https://github.com/ComputX-research-group)
 3. Member - [Chhayachitra](https://www.instagram.com/chhayachitra_iiitb/)
 4. Teaching Assistant - IIITBangalore
