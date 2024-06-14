@@ -22,15 +22,16 @@
 
 - ⚡ Fun fact **Love to talk about aviation!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/srinivasan-m-668154228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinivasan-m-668154228" height="30" width="40" /></a>
-<a href="https://instagram.com/srinivasan_2404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srinivasan_2404" height="30" width="40" /></a>
-<a href="https://discord.gg/srinivasan1490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="srinivasan1490" height="30" width="40" /></a>
-</p>
+<!-- <p align="left"> -->
+<!-- <a href="https://www.linkedin.com/in/srinivasan-m-668154228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinivasan-m-668154228" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/srinivasan_2404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srinivasan_2404" height="30" width="40" /></a> -->
+<!-- <a href="https://discord.gg/srinivasan1490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="srinivasan1490" height="30" width="40" /></a> -->
+<!-- </p> -->
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasan-m-668154228)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/srinivasan_2404)
+[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/srinivasan1490)
 
 # 💻Tech Stack
 <div align="center">
