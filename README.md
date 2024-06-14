@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivasan</h1>
-<h3 align="center">I am currently finished my third year at IIIT Bangalore.I am a passionate back-end developer and ML enthusiast from India. I love to learn new frameworks and explore new stuff.</h3>
+<h3 align="center">I currently finished my third year at IIIT Bangalore.I am a passionate back-end developer and ML enthusiast from India. I love to learn new frameworks and explore new stuff.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srini2404&label=Profile%20views&color=0e75b6&style=flat" alt="srini2404" /> </p>
 
 ## Current Roles - 
@@ -106,6 +106,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=mayankchadha16&theme=discord&no-frame=true&no-bg=false&margin-w=4) -->
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=srini2404&icon=0&color=12" alt="Visitor Count"/>
-</p>
+
