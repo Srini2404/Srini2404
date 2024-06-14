@@ -8,13 +8,13 @@
 3. Member - [Chhayachitra](https://www.instagram.com/chhayachitra_iiitb/)
 4. Teaching Assistant - IIITBangalore
 
-- 🔭 I’m currently working on Data Visualization and Machine Learning
+- 🔭 I’m currently working on Machine Learning
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently exploring **Recommendation Systems and Image Segmentation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Srini2404](https://github.com/Srini2404)
 
-- 💬 Ask me about **spring,React**
+- 💬 Ask me about **spring,React,PyTorch**
 
 - 📫 How to reach me **m.srinivasan@iiitb.ac.in**
 
