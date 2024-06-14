@@ -30,8 +30,8 @@
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasan-m-668154228)
-[![Instagram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=instagram&logoColor=white)](https://instagram.com/srinivasan_2404)
-[![Discord](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=discord&logoColor=white)](https://discord.gg/srinivasan1490)
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://instagram.com/srinivasan_2404)
+[![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=discord&logoColor=white)](https://discord.gg/srinivasan1490)
 
 # 💻Tech Stack
 <div align="center">
