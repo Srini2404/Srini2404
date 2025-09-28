@@ -1,120 +1,77 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Srinivasan M | AI & ML Researcher</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-    <style>
-        /* Reset & Fonts */
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Inter', sans-serif; line-height: 1.6; background: #f5f6fa; color: #333; }
-        a { text-decoration: none; color: inherit; }
-        img { max-width: 100%; display: block; }
+# Hi 👋, I'm Srinivasan
 
-        /* Container */
-        .container { max-width: 1000px; margin: auto; padding: 2rem; }
+**AI & Machine Learning Researcher | Final Year Student at IIIT Bangalore**  
+Currently at **SUTD Singapore** after a rewarding stint with **IBM Research**.  
+Passionate about making AI **smarter, safer, and human-aligned**.  
+When not coding, you’ll find me **hiking or behind a camera**.
 
-        /* Header */
-        header { text-align: center; margin-bottom: 3rem; }
-        header h1 { font-size: 3rem; color: #0e75b6; }
-        header h3 { font-weight: 400; margin-top: 1rem; color: #555; }
+![Profile Views](https://komarev.com/ghpvc/?username=srini2404&label=Profile%20views&color=0e75b6&style=flat)
 
-        /* Profile Views */
-        .profile-views { margin-top: 1rem; }
+---
 
-        /* Roles Section */
-        .roles { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 3rem 0; }
-        .role-card { background: #fff; padding: 1.5rem; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.05); transition: transform 0.3s; }
-        .role-card:hover { transform: translateY(-5px); }
-        .role-card a { color: #0e75b6; font-weight: 600; }
+## 🎓 Current Roles
+| Role | Organization |
+|------|--------------|
+| Visiting Student | [SUTD Singapore](https://www.sutd.edu.sg/) |
+| Ex-Research Intern | [IBM Research](https://research.ibm.com/) |
+| Ex-Marketing Lead | [TEDxIIITB](https://www.tedxiiitbangalore.in/) |
+| Ex-Member | [ComputX](https://github.com/ComputX-research-group) |
+| Ex-Member | [Chhayachitra](https://www.instagram.com/chhayachitra_iiitb/) |
+| Teaching Assistant | IIIT Bangalore |
 
-        /* Info Section */
-        .info { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 3rem; }
-        .info div { flex: 1; min-width: 200px; padding: 1rem; background: #fff; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.05); }
+---
 
-        /* Socials */
-        .socials { text-align: center; margin: 2rem 0; }
-        .socials a { display: inline-block; margin: 0 0.5rem; font-size: 1.5rem; color: #0e75b6; transition: color 0.3s; }
-        .socials a:hover { color: #ff4757; }
+## 💡 About Me
+- 🔭 **Currently working on:** Machine Learning  
+- 🌱 **Exploring:** Recommendation Systems & Image Segmentation  
+- 👨‍💻 **Projects:** [GitHub](https://github.com/Srini2404)  
+- 💬 **Ask me about:** Spring, React, PyTorch  
+- 📫 **Contact:** m.srinivasan@iiitb.ac.in  
+- 📄 **Experiences:** [Overleaf](https://www.overleaf.com/project/64131d76edab08cf121bc187)  
+- ⚡ **Fun Fact:** Love to talk about aviation!
 
-        /* Tech Stack */
-        .tech-stack { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin-bottom: 3rem; }
-        .tech-stack code { display: flex; align-items: center; justify-content: center; flex-direction: column; background: #fff; padding: 0.5rem; border-radius: 10px; box-shadow: 0 6px 15px rgba(0,0,0,0.05); transition: transform 0.3s; width: 70px; }
-        .tech-stack code:hover { transform: translateY(-5px); }
-        .tech-stack img { width: 40px; height: 40px; margin-bottom: 0.3rem; }
+---
 
-        /* Stats */
-        .stats { text-align: center; margin-bottom: 3rem; }
-        .stats img { border-radius: 12px; margin: 0.5rem 0; }
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasan-m-668154228)  
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://instagram.com/srinivasan_2404)  
+[![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=discord&logoColor=white)](https://discord.gg/srinivasan1490)
 
-        /* Footer */
-        footer { text-align: center; padding: 2rem 0; font-size: 0.9rem; color: #777; border-top: 1px solid #ddd; }
+---
 
-        /* Responsive */
-        @media(max-width: 768px){
-            header h1 { font-size: 2.2rem; }
-            header h3 { font-size: 1rem; }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Hi 👋, I'm Srinivasan</h1>
-            <h3>Final year student IIIT Bangalore. I’m an <strong>AI and Machine Learning researcher</strong>, currently at <strong>SUTD Singapore</strong> after a rewarding stint with <strong>IBM Research</strong>. I’m passionate about making AI <strong>smarter, safer, and human-aligned</strong>. When not coding, you’ll find me <strong>hiking or behind a camera</strong>.</h3>
-            <div class="profile-views">
-                <img src="https://komarev.com/ghpvc/?username=srini2404&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-            </div>
-        </header>
+## 🛠️ Tech Stack
 
-        <section class="roles">
-            <div class="role-card"><strong>Visiting Student</strong> - <a href="https://www.sutd.edu.sg/">SUTD Singapore</a></div>
-            <div class="role-card"><strong>Ex-Research Intern</strong> - <a href="https://research.ibm.com/">IBM Research</a></div>
-            <div class="role-card"><strong>Ex-Marketing Lead</strong> - <a href="https://www.tedxiiitbangalore.in/">TEDxIIITB</a></div>
-            <div class="role-card"><strong>Ex-Member</strong> - <a href="https://github.com/ComputX-research-group">ComputX</a></div>
-            <div class="role-card"><strong>Ex-Member</strong> - <a href="https://www.instagram.com/chhayachitra_iiitb/">Chhayachitra</a></div>
-            <div class="role-card"><strong>Teaching Assistant</strong> - IIIT Bangalore</div>
-        </section>
+<div align="center">
 
-        <section class="info">
-            <div><strong>Currently Working On:</strong> Machine Learning</div>
-            <div><strong>Exploring:</strong> Recommendation Systems & Image Segmentation</div>
-            <div><strong>Projects:</strong> <a href="https://github.com/Srini2404">GitHub</a></div>
-            <div><strong>Ask me about:</strong> Spring, React, PyTorch</div>
-            <div><strong>Contact:</strong> m.srinivasan@iiitb.ac.in</div>
-            <div><strong>Experiences:</strong> <a href="https://www.overleaf.com/project/64131d76edab08cf121bc187">Overleaf</a></div>
-            <div><strong>Fun Fact:</strong> Love to talk about aviation!</div>
-        </section>
+<img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="50" title="HTTP"/>  
+<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="50" title="REST"/>  
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" title="Git"/>  
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50" title="GitHub"/>  
+<img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="50" title="Jupyter"/>   
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="50" title="Node.js"/>  
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50" title="HTML"/>  
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50" title="CSS"/>  
+<img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="50" title="C"/>  
+<img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50" title="C++"/>  
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" title="Python"/>  
+<img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="50" title="TensorFlow"/>  
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50" title="MySQL"/>  
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="50" title="MongoDB"/>  
+<img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="50" title="Windows"/>  
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="50" title="Linux"/>  
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50" title="Java"/>  
+<img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="50" title="Spring"/>  
+<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50" title="Spring Boot"/>  
 
-        <section class="socials">
-            <a href="https://www.linkedin.com/in/srinivasan-m-668154228" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a href="https://instagram.com/srinivasan_2404" target="_blank"><i class="fab fa-instagram"></i></a>
-            <a href="https://discord.gg/srinivasan1490" target="_blank"><i class="fab fa-discord"></i></a>
-        </section>
+</div>
 
-        <section class="tech-stack">
-            <code><img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP"/><span>HTTP</span></code>
-            <code><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST"/><span>REST</span></code>
-            <code><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git"/><span>Git</span></code>
-            <code><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"/><span>GitHub</span></code>
-            <code><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter"/><span>Jupyter</span></code>
-            <code><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37e-bf92061753e5.png" alt="React"/><span>React</span></code>
-            <code><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js"/><span>Node.js</span></code>
-            <code><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML"/><span>HTML</span></code>
-            <code><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS"/><span>CSS</span></code>
-        </section>
+---
 
-        <section class="stats">
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=srini2404&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
-            <br>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=srini2404&theme=radical&hide_border=true" alt="GitHub Streak">
-        </section>
+## 📊 GitHub Stats
 
-        <footer>
-            &copy; 2025 Srinivasan M. | Made with ❤️ using GitHub Pages
-        </footer>
-    </div>
-</body>
-</html>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=srini2404&theme=radical&hide_border=true&include_all_commits=false&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srini2404&theme=radical&hide_border=true)
+
+---
+
+&copy; 2025 Srinivasan M | Made with ❤️ using GitHub
