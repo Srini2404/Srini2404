@@ -1,109 +1,120 @@
-<h1 align="center">Hi 👋, I'm Srinivasan</h1>
-<h3 align="center">I currently finished my third year at IIIT Bangalore.I am a passionate back-end developer and ML enthusiast from India. I love to learn new frameworks and explore new stuff.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srini2404&label=Profile%20views&color=0e75b6&style=flat" alt="srini2404" /> </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Srinivasan M | AI & ML Researcher</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        /* Reset & Fonts */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; line-height: 1.6; background: #f5f6fa; color: #333; }
+        a { text-decoration: none; color: inherit; }
+        img { max-width: 100%; display: block; }
 
-## Current Roles - 
-1. Ex-Marketing Lead - [TEDxIIITBanagalore](https://www.tedxiiitbangalore.in/)
-2. Ex - Member - [Computx](https://github.com/ComputX-research-group)
-3. Member - [Chhayachitra](https://www.instagram.com/chhayachitra_iiitb/)
-4. Teaching Assistant - IIITBangalore
+        /* Container */
+        .container { max-width: 1000px; margin: auto; padding: 2rem; }
 
-- 🔭 I’m currently working on Machine Learning
+        /* Header */
+        header { text-align: center; margin-bottom: 3rem; }
+        header h1 { font-size: 3rem; color: #0e75b6; }
+        header h3 { font-weight: 400; margin-top: 1rem; color: #555; }
 
-- 🌱 I’m currently exploring **Recommendation Systems and Image Segmentation**
+        /* Profile Views */
+        .profile-views { margin-top: 1rem; }
 
-- 👨‍💻 All of my projects are available at [https://github.com/Srini2404](https://github.com/Srini2404)
+        /* Roles Section */
+        .roles { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin: 3rem 0; }
+        .role-card { background: #fff; padding: 1.5rem; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.05); transition: transform 0.3s; }
+        .role-card:hover { transform: translateY(-5px); }
+        .role-card a { color: #0e75b6; font-weight: 600; }
 
-- 💬 Ask me about **spring,React,PyTorch**
+        /* Info Section */
+        .info { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 3rem; }
+        .info div { flex: 1; min-width: 200px; padding: 1rem; background: #fff; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.05); }
 
-- 📫 How to reach me **m.srinivasan@iiitb.ac.in**
+        /* Socials */
+        .socials { text-align: center; margin: 2rem 0; }
+        .socials a { display: inline-block; margin: 0 0.5rem; font-size: 1.5rem; color: #0e75b6; transition: color 0.3s; }
+        .socials a:hover { color: #ff4757; }
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/64131d76edab08cf121bc187](https://www.overleaf.com/project/64131d76edab08cf121bc187)
+        /* Tech Stack */
+        .tech-stack { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin-bottom: 3rem; }
+        .tech-stack code { display: flex; align-items: center; justify-content: center; flex-direction: column; background: #fff; padding: 0.5rem; border-radius: 10px; box-shadow: 0 6px 15px rgba(0,0,0,0.05); transition: transform 0.3s; width: 70px; }
+        .tech-stack code:hover { transform: translateY(-5px); }
+        .tech-stack img { width: 40px; height: 40px; margin-bottom: 0.3rem; }
 
-- ⚡ Fun fact **Love to talk about aviation!**
+        /* Stats */
+        .stats { text-align: center; margin-bottom: 3rem; }
+        .stats img { border-radius: 12px; margin: 0.5rem 0; }
 
-<!-- <p align="left"> -->
-<!-- <a href="https://www.linkedin.com/in/srinivasan-m-668154228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinivasan-m-668154228" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/srinivasan_2404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srinivasan_2404" height="30" width="40" /></a> -->
-<!-- <a href="https://discord.gg/srinivasan1490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="srinivasan1490" height="30" width="40" /></a> -->
-<!-- </p> -->
+        /* Footer */
+        footer { text-align: center; padding: 2rem 0; font-size: 0.9rem; color: #777; border-top: 1px solid #ddd; }
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasan-m-668154228)
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://instagram.com/srinivasan_2404)
-[![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=discord&logoColor=white)](https://discord.gg/srinivasan1490)
+        /* Responsive */
+        @media(max-width: 768px){
+            header h1 { font-size: 2.2rem; }
+            header h3 { font-size: 1rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Hi 👋, I'm Srinivasan</h1>
+            <h3>Final year student IIIT Bangalore. I’m an <strong>AI and Machine Learning researcher</strong>, currently at <strong>SUTD Singapore</strong> after a rewarding stint with <strong>IBM Research</strong>. I’m passionate about making AI <strong>smarter, safer, and human-aligned</strong>. When not coding, you’ll find me <strong>hiking or behind a camera</strong>.</h3>
+            <div class="profile-views">
+                <img src="https://komarev.com/ghpvc/?username=srini2404&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+            </div>
+        </header>
 
-# 💻Tech Stack
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-<!-- 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code> -->
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
-<!-- 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code> -->
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-<!-- 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code> -->
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
-<!-- 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code> -->
-<!-- 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/></code> -->
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
-<!-- 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" alt="Elasticsearch" title="Elasticsearch"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/></code> -->
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
-</div>
+        <section class="roles">
+            <div class="role-card"><strong>Visiting Student</strong> - <a href="https://www.sutd.edu.sg/">SUTD Singapore</a></div>
+            <div class="role-card"><strong>Ex-Research Intern</strong> - <a href="https://research.ibm.com/">IBM Research</a></div>
+            <div class="role-card"><strong>Ex-Marketing Lead</strong> - <a href="https://www.tedxiiitbangalore.in/">TEDxIIITB</a></div>
+            <div class="role-card"><strong>Ex-Member</strong> - <a href="https://github.com/ComputX-research-group">ComputX</a></div>
+            <div class="role-card"><strong>Ex-Member</strong> - <a href="https://www.instagram.com/chhayachitra_iiitb/">Chhayachitra</a></div>
+            <div class="role-card"><strong>Teaching Assistant</strong> - IIIT Bangalore</div>
+        </section>
 
+        <section class="info">
+            <div><strong>Currently Working On:</strong> Machine Learning</div>
+            <div><strong>Exploring:</strong> Recommendation Systems & Image Segmentation</div>
+            <div><strong>Projects:</strong> <a href="https://github.com/Srini2404">GitHub</a></div>
+            <div><strong>Ask me about:</strong> Spring, React, PyTorch</div>
+            <div><strong>Contact:</strong> m.srinivasan@iiitb.ac.in</div>
+            <div><strong>Experiences:</strong> <a href="https://www.overleaf.com/project/64131d76edab08cf121bc187">Overleaf</a></div>
+            <div><strong>Fun Fact:</strong> Love to talk about aviation!</div>
+        </section>
 
+        <section class="socials">
+            <a href="https://www.linkedin.com/in/srinivasan-m-668154228" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://instagram.com/srinivasan_2404" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://discord.gg/srinivasan1490" target="_blank"><i class="fab fa-discord"></i></a>
+        </section>
 
+        <section class="tech-stack">
+            <code><img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP"/><span>HTTP</span></code>
+            <code><img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST"/><span>REST</span></code>
+            <code><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git"/><span>Git</span></code>
+            <code><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"/><span>GitHub</span></code>
+            <code><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter"/><span>Jupyter</span></code>
+            <code><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37e-bf92061753e5.png" alt="React"/><span>React</span></code>
+            <code><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js"/><span>Node.js</span></code>
+            <code><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML"/><span>HTML</span></code>
+            <code><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS"/><span>CSS</span></code>
+        </section>
 
+        <section class="stats">
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=srini2404&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
+            <br>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=srini2404&theme=radical&hide_border=true" alt="GitHub Streak">
+        </section>
 
-
-
-
-
-
-
-
-# 📊GitHub Stats :
-<div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=srini2404&theme=radical&hide_border=true&include_all_commits=false&count_private=true">
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srini2404&theme=radical&hide_border=true">
-<!--     <br/> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankchadha16&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"> -->
-</div>
-
-<!-- ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayankchadha16&theme=discord&no-frame=true&no-bg=false&margin-w=4) -->
-
----
-
+        <footer>
+            &copy; 2025 Srinivasan M. | Made with ❤️ using GitHub Pages
+        </footer>
+    </div>
+</body>
+</html>
