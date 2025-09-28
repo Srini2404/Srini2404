@@ -1,9 +1,6 @@
 # Hi 👋, I'm Srinivasan
 
-**AI & Machine Learning Researcher | Final Year Student at IIIT Bangalore**  
-Currently at **SUTD Singapore** after a rewarding stint with **IBM Research**.  
-Passionate about making AI **smarter, safer, and human-aligned**.  
-When not coding, you’ll find me **hiking or behind a camera**.
+**AI & Machine Learning Researcher | Final Year Student at IIIT Bangalore**  Currently at **SUTD Singapore** after a rewarding stint with **IBM Research**. Passionate about making AI **smarter, safer, and human-aligned**.  When not coding, you’ll find me **hiking or behind a camera**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=srini2404&label=Profile%20views&color=0e75b6&style=flat)
 
